@@ -1,0 +1,79 @@
+{
+  "question": [
+    "Q1. What is the value of pi (π) to five decimal places?\n",
+    "Q2. Who won the Nobel Prize in Physics in 1921 for his work on \n theoretical physics?",
+    "Q3. In computer science, what does the acronym 'SQL' stand for?\n",
+    "Q4. What is the largest prime number less than 100?\n",
+    "Q5. In literature, what is the term for a play on words where a \n word has multiple meanings?",
+    "Q6. What is the chemical symbol for the element tungsten?\n",
+    "Q7. In physics, what does the Schrödinger equation describe?\n",
+    "Q8. Which chemical element has the highest melting point?\n",
+    "Q9. In quantum mechanics, what does Schrödinger's cat illustrate?\n",
+    "Q10. Who is known as the 'Father of Computer Science'?\n"
+  ],
+  "answer": [
+    3,
+    4,
+    2,
+    1,
+    1,
+    1,
+    2,
+    4,
+    2,
+    2
+  ],
+  "options": [
+
+    ["3.14286",
+      "3.13095",
+      "3.14159",
+      "3.13579"
+    ],
+    ["Niels Bohr",
+      "Werner Heisenberg",
+      "Max Planck",
+      "Albert Einstein"
+    ],
+    ["System Question Language",
+      "Structured Query Language",
+      "Standard Query Language",
+      "Sequential Query Language"
+    ],
+    ["97",
+      "89",
+      "93",
+      "101"
+    ],
+    ["Pun",
+      "Allegory",
+      "Metaphor",
+      "Irony"
+    ],
+    ["W",
+      "Tg",
+      "Tn",
+      "Tu"
+    ],
+    ["Electromagnetism",
+      "Quantum Mechanics",
+      "Thermodynamics",
+      "Relativity"
+    ],
+    ["Platinum",
+      "Osmium",
+      "Titanium",
+      "Tungsten"
+    ],
+    ["Entanglement",
+      "Superposition",
+      "Uncertainty principle",
+      "Wave-particle duality"
+    ],
+    ["Ada Lovelace",
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann"
+    ]
+  ]
+}
